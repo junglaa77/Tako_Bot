@@ -1,0 +1,1 @@
+// 主程式入口：整合 music, weather, quake, Claude, dashboard
